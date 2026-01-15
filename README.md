@@ -37,15 +37,14 @@ A simple web-based **Money Manager** app to track your **income** and **expenses
 
 ## How to Run
 
-1. **Download/Extract the ZIP file** to your local machine.
-2. **Open `index.html`** in your preferred web browser (Chrome, Firefox, Edge, etc.).
-3. **Start managing your finances!**
-   - Click **Add Transaction** to add new income or expense.
-   - Edit or delete transactions directly from the table.
-   - Use filters and sorting options to view specific transactions.
-   - Download transactions as **CSV** using the button in the header.
-4. **Data is saved locally** in the browser's `LocalStorage`, so it persists between page refreshes.
+### Option 1: Open Directly
+1. Download or clone the repository
+2. Open `index.html` in any modern browser (Chrome recommended)
 
+### Option 2: Using Live Server (Recommended)
+1. Open the project folder in **VS Code**
+2. Install the **Live Server** extension
+3. Right-click `index.html` → **Open with Live Server**
 ---
 
 ## Dependencies
