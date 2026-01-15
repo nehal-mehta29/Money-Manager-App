@@ -54,6 +54,9 @@ A simple web-based **Money Manager** app to track your **income** and **expenses
 - [Chart.js](https://www.chartjs.org/) for income vs expense chart
 
 > No server is required — this is a fully **frontend-based app**.
+---
 
+## Author
 
-
+**Nehal Mehta**  
+GitHub: [https://github.com/nehal-mehta29](https://github.com/nehal-mehta29)
